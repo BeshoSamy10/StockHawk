@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="dialog_title">إضافة سهم</string>
+    <string name="dialog_hint">سهم مثل (GOOG)</string>
+    <string name="dialog_cancel">إلغاء</string>
+    <string name="dialog_add">حفظ</string>
+
+    <string name="error_stock_not_found">هذا السهم غير موجود</string>
+    <string name="error_no_network">لا يوجد انترنت ! سيتم التحميل عند الاتصال بالانترنت</string>
+    <string name="error_no_stocks">لا يوجد أسهم مضافة ! إضغط على الزر لإضافة سهم</string>
+
+    <string name="toast_stock_added_no_connectivity">سهم %s تمت إضافته ! سيتم التحميل عند وجود إنترنت</string>
+    <string name="toast_no_connectivity">سيتم التحميل عند وجود إنترنت</string>
+    <string name="toast_symbol_not_exist">هذا السهم غير صالح !</string>
+    <string name="toast_stock_already_added">موجود بالفعل</string>
+    <string name="stock_history_chart_description">رسم بيانى لتاريخ سعر السهم</string>
+    <string name="add_stock_description">زر لإضافة سهم</string>
+    <string name="swiprefresh_description">إسحب لتحميل البيانات</string>
+
+</resources>
